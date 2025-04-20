@@ -1,0 +1,1 @@
+['feeling really tired', 'changes with my energy levels', 'sensitivity to the cold', 'anxiety', 'trouble sleeping', 'changes in body weight', 'hair thinning', 'changes in skin']

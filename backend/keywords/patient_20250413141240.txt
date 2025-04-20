@@ -1,0 +1,1 @@
+["feeling really tired", "changes with energy levels", "sensitive to the cold", "feeling anxious", "trouble sleeping"]

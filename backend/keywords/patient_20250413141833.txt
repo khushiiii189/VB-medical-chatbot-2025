@@ -1,0 +1,1 @@
+The provided data doesn't contain any doctor-patient conversation from which symptoms or conditions could be extracted. Please provide a valid conversation.
